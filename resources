@@ -27,4 +27,14 @@ https://iancoleman.io/bip39/
 3. Git
 
 
-olawao
+# solidity compiler
+ npm install save solc@0.4.17
+
+
+# infura signup
+# infura  helps you to connect to a web3 network by connecting you to an already established node on web3.
+# This saves the stress of having to configure your setup ground up
+
+https://infura.io/register
+
+npm install --save @truffle/hdwallet-provider
