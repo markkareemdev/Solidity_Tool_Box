@@ -38,3 +38,9 @@ https://iancoleman.io/bip39/
 https://infura.io/register
 
 npm install --save @truffle/hdwallet-provider
+
+
+#ether scan
+
+https://goerli.etherscan.io
+

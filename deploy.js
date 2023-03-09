@@ -8,6 +8,7 @@ require('dotenv').config();
 
 console.log('i am starting up')
 
+
 const provider = new HDWalletProvider({
 
     mnemonic: {
