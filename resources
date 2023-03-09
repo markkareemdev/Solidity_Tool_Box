@@ -44,3 +44,15 @@ npm install --save @truffle/hdwallet-provider
 
 https://goerli.etherscan.io
 
+
+
+# solidity basic variable types
+
+  1. string  characters
+  2. bool    boolean value
+  3. int     interger +ve or -ve has no decimal
+  4. uint    unsigned interger . Number with decimal after it
+  5. fixed/ufixed   Fixed point Number. Number without a decimal after it
+  6. address        has methods tired to it for sending money
+
+
